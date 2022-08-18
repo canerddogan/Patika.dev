@@ -22,4 +22,3 @@ Bölünmüş arrayin BigO Gösterimi O(n)\
 
 
 [Patika.dev](https://www.patika.dev/tr)\
-![Patika](C:\Kullanıcılar\CANER DOĞAN\Masaüstü\patika.jpg)
