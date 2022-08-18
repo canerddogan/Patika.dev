@@ -21,4 +21,5 @@ Bölünmüş arrayin BigO Gösterimi O(n)\
 --BigO = O(nlogn)--
 
 
-[Patika.dev](https://www.patika.dev/tr)
+[Patika.dev](https://www.patika.dev/tr)\
+![Patika](C:\Kullanıcılar\CANER DOĞAN\Masaüstü\patika.jpg)
